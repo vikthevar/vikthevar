@@ -6,7 +6,7 @@ I’m a passionate computer science student and developer, focused on building i
 
 ## About Me
 
-- 🔭 I’m an incoming sophomore at Arizona State University  
+- 🔭 I’m a sophomore at Arizona State University  
 - 🌱 Currently learning and improving my skills in Full Stack Development, Cloud Computing Architectures, and scalable AI/ML model deployment  
 - 👯 Open to collaboration on projects that focus on accessibility, AI, and user experience  
 - 💬 Feel free to reach out to discuss technology, fashion, basketball, or music  

@@ -1,6 +1,6 @@
 # Hi, I’m Vikram Thevar 👋
 
-I’m a passionate computer science student and developer, focused on building impactful technology solutions. Currently, I’m developing **Heimdall**, an AI-powered voice assistant aimed at helping visually impaired individuals and non-technical users navigate their devices.
+I’m a passionate computer science student and developer, focused on building impactful technology solutions.
 
 ---
 
